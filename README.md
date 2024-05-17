@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!
 
 - Class Date: mat 16 - 27, 2024
 - Facilitator: @vvaths
